@@ -1,3 +1,4 @@
-name = "icd11-worker"
+name = "worker"
 type = "javascript"
 main = "worker.js"
+compatibility_date = "2025-02-25"
